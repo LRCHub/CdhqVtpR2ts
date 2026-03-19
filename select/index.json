@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Going Under (Official HD Music Video)",
+  "base_artist": "Evanescence",
+  "createdAt": "2026-03-19T16:36:25.696569Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Going Under",
+      "artist": "Evanescence",
+      "has_synced": true,
+      "path": "select/01_Going_Under_Evanescence.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Going Under",
+      "artist": "Devo",
+      "has_synced": true,
+      "path": "select/02_Going_Under_Devo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Going Under",
+      "artist": "Evanescence",
+      "has_synced": true,
+      "path": "select/03_Going_Under_Evanescence.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Going Under",
+      "artist": "Marillion",
+      "has_synced": true,
+      "path": "select/04_Going_Under_Marillion.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Going Under",
+      "artist": "Marillion",
+      "has_synced": true,
+      "path": "select/05_Going_Under_Marillion.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Going Under",
+      "artist": "Evanescence",
+      "has_synced": true,
+      "path": "select/06_Going_Under_Evanescence.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Going Under",
+      "artist": "Evanescence",
+      "has_synced": true,
+      "path": "select/07_Going_Under_Evanescence.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Going Under",
+      "artist": "Eveanescence",
+      "has_synced": true,
+      "path": "select/08_Going_Under_Eveanescence.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Going Under",
+      "artist": "Trapt",
+      "has_synced": false,
+      "path": "select/09_Going_Under_Trapt.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Going Under (Evil Love and Insanity Dub)",
+      "artist": "Rockers Hi-Fi",
+      "has_synced": false,
+      "path": "select/10_Going_Under_(Evil_Love_and_Insanity_Dub)_Rockers_Hi-Fi.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Going Under (Evil Love And Insanity Dub)",
+      "artist": "Rocker's HIFI",
+      "has_synced": false,
+      "path": "select/11_Going_Under_(Evil_Love_And_Insanity_Dub)_Rocker's_HIFI.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Going Under (K&D Session™)",
+      "artist": "Rockers Hi-Fi",
+      "has_synced": false,
+      "path": "select/12_Going_Under_(K&D_SessionTM)_Rockers_Hi-Fi.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Going Under (Live From Le Zénith,France/2004)",
+      "artist": "Evanescence",
+      "has_synced": true,
+      "path": "select/13_Going_Under_(Live_From_Le_Zénith,France_2004)_Evanescence.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Going Under - 1999 Remastered Version",
+      "artist": "Marillion",
+      "has_synced": true,
+      "path": "select/14_Going_Under_-_1999_Remastered_Version_Marillion.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Going Under (Live Studio Session)",
+      "artist": "Evanescence",
+      "has_synced": true,
+      "path": "select/15_Going_Under_(Live_Studio_Session)_Evanescence.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Going Under (album version)",
+      "artist": "Evanescence",
+      "has_synced": true,
+      "path": "select/16_Going_Under_(album_version)_Evanescence.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Going Under",
+      "artist": "Evanescence",
+      "has_synced": false,
+      "path": "select/pl_01_Going_Under_Evanescence.txt"
+    }
+  ]
+}
